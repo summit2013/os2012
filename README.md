@@ -15,3 +15,13 @@
 	- 实验一 Linux安装及虚拟机的使用
 	- 实验二 Linux系统下的C++开发
 
+
+# 样例代码 #
+
+	#include <iostream>
+
+
+	int main(){
+		std::cout << "hello world!" << std::endl;
+		return 0;
+	}
