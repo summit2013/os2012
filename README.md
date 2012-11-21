@@ -31,3 +31,11 @@
 # Logo #
 
 ![花](http://www.diyyh.com/UploadPic/2008-3/2143.jpg)
+
+# 参考链接 #
+
+* [36kr](http://www.36kr.com/)
+* [皮皮书屋](http://www.ppurl.com/login/)
+* [CSDN](http://www.csdn.net/)
+* [爱范儿](http://www.ifanr.com/)
+* [花瓣网](http://huaban.com/)
