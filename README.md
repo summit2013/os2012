@@ -27,3 +27,7 @@
 		std::cout << "hello world!" << std::endl;
 		return 0;
 	}
+
+# Logo #
+
+![»¨](http://www.diyyh.com/UploadPic/2008-3/2143.jpg)
