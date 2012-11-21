@@ -30,7 +30,7 @@
 
 # Logo #
 
-![花](http://www.diyyh.com/UploadPic/2008-3/2143.jpg)
+![花](https://raw.github.com/summit2013/os2012/master/images/logo.jpg)
 
 # 参考链接 #
 
